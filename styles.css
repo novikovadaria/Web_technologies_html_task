@@ -1,0 +1,23 @@
+h1 {
+    font-size: 50px;
+    color:rgb(245, 134, 0);
+    background-color: blanchedalmond;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+table{
+
+    color:rgb(245, 134, 0);
+    font-size: 25px;
+}
