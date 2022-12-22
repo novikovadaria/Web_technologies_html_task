@@ -18,3 +18,25 @@
 7. Одну ссылку.
 
 8. Один локальный, подключенный css-файл, в котором прописаны пара стилей, применяемых на странице.
+
+________________________________________________________________________________________________________________
+# Lesson 2. HTML, CSS
+## Create a website (html document with the name index.html ), with a story about anything.
+
+**The page must contain at least:**
+
+1. Two headings.
+
+2. Two paragraphs (paragraphs).
+
+3. One picture from the Internet, which is freely available, that is, which will be available without registration and SMS;)
+
+4. One picture that will be taken locally. All local images should be stored in the img folder, which should lie next to the html document.
+
+5. One numbered list with values.
+
+6. One bulleted list with values.
+
+7. One link.
+
+8. One local, connected css file, which contains a couple of styles used on the page.
